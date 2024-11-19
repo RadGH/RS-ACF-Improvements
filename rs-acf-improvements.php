@@ -2,15 +2,15 @@
 /*
 Plugin Name: RS ACF Improvements
 Description: Adds a link to edit field groups on user profiles and taxonomy term pages.
-Version: 1.0.0
+Version: 1.0.1
 Author: Radley Sustaire
 Author URI: https://radleysustaire.com
-@todo GitHub Plugin URI: https://github.com/RadGH/RS-XXX
+GitHub Plugin URI: https://github.com/RadGH/RS-ACF-Improvements
 */
 
 define( 'RS_ACFI_PATH', __DIR__ );
 define( 'RS_ACFI_URL', plugin_dir_url(__FILE__) );
-define( 'RS_ACFI_VERSION', '1.0.0' );
+define( 'RS_ACFI_VERSION', '1.0.1' );
 
 class RS_ACF_Improvements {
 	
