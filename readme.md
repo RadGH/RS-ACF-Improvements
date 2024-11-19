@@ -20,5 +20,8 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 
 ## Changelog
 
+### 1.0.1
+* Added GitHub Updater plugin support (GitHub Plugin URI)
+
 ### 1.0.0
 * Initial release
